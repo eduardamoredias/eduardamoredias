@@ -13,4 +13,4 @@
 
 ##
 
-  <img align="right" alt="duda-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1045125808278216837/1045126655326298122/1706331_gukZI83j.gif">
+ 
