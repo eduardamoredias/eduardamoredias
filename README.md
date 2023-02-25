@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Maria Eduarda
 
-🌱 Atualmente estudando para ser Dev Front-end
+Cursando Análise e Desenvolvimento de Sistemas      
+HTML|CSS|JavaScript
 
-🪐 Pronomes: Ela/Dela
 
 
 <div align="center">
