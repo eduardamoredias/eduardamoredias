@@ -10,7 +10,7 @@ const MariaEduarda = {
   nome: "Maria Eduarda",
   apelido: "Duda",
   idade: 20,
-  curso: "Análise e Desenvolvimento de Sistemas",
+  cursando: "Análise e Desenvolvimento de Sistemas",
   pronomes: "ela" | "dela",
   linguagens: ["JavaScript", "HTML", "CSS",]
 };
