@@ -12,7 +12,6 @@ const MariaEduarda = {
   linguagens: ["JavaScript", "HTML", "CSS",]
 };
 ```
-<a href="https://komarev.com/ghpvc/?Eduardacode=your-github-Eduardacode&color=green">
 
 </div>
 
