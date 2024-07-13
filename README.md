@@ -12,7 +12,7 @@ const MariaEduarda = {
   linguagens: ["JavaScript", "HTML", "CSS",]
 };
 ```
-<a href="https://komarev.com/ghpvc/?username=Eduardacode-github-Eduardacode&color=blueviolet"
+<a href="![](https://komarev.com/ghpvc/?username=your-github-username&color=green"
 </div>
 
   ##
