@@ -2,8 +2,16 @@
 
 <div align="center"
 <a href="https://github.com/Eduardacode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardacode&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardacode&layout=compact&langs_count=7&theme=midnight-purple"/> 
+```javascript
+const MariaEduarda = {
+  nome: "Maria Eduarda",
+  apelido: "Duda",
+  idade: 20,
+  curso: "Análise e Desenvolvimento de Sistemas",
+  pronomes: "ela" | "dela",
+  linguagens: ["JavaScript",  "HTML", "CSS",]
+};
+
 </div>
 
 <div style="display: inline_block"><br>
