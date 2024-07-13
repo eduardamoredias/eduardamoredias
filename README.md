@@ -1,6 +1,3 @@
- ```javascript
-console.log("Olá, Mundo! Eu sou a Maria Eduarda");
-```
 
 <div align="left"
 <a href="https://github.com/Eduardacode">
@@ -15,6 +12,7 @@ const MariaEduarda = {
   linguagens: ["JavaScript", "HTML", "CSS",]
 };
 ```
+https://komarev.com/ghpvc/?username=Eduardacode-github-username&color=blueviolet
 </div>
 
   ##
