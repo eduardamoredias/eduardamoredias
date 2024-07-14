@@ -15,20 +15,11 @@ const MariaEduarda = {
 
 </div>
 
-  
-  <div>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  </div>
- 
- ##
+#
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardacode&theme=midnight-purple">
+
+
+ #
  <p> Contato e Redes</p>
   <a href="https://www.linkedin.com/in/maria-eduarda-moreira-148086177" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardamoreiracode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardacode&layout=compact&bg_color=291b3e&title_color=ff64da&text_color=c9d1d9&icon_color=79ff97&border_color=30363d)
-
-
-
