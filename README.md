@@ -1,3 +1,4 @@
+![Metrics](./metrics.svg)
 
 <div align="left"
 <a href="https://github.com/Eduardacode">
