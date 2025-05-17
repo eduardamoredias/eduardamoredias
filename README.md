@@ -14,5 +14,4 @@ const MariaEduarda = {
 ```
 </div>
 
-![Metrics](https://github.com/eduardamoredias/eduardamoredias/blob/main/metrics.svg)
 
