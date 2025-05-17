@@ -13,7 +13,9 @@ const MariaEduarda = {
 };
 ```
 </div>
-
+<div>
+  ![GitHub Metrics](https://github.com/eduardamoredias/eduardamoredias/blob/master/metrics.svg)
+</div>
 <table>
   <tr>
     <td>
