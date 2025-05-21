@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/eduardamoredias/eduardamoredias/blob/main/github-metrics.svg" alt="Metrics" />
+  <img src="Metrics](https://github.com/eduardamoredias/eduardamoredias/blob/main/metrics.classic.svg alt="Metrics" />
 </p>
+
 
 
 
