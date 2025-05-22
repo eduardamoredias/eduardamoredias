@@ -18,8 +18,8 @@ jobs:
           filename: metrics.classic.svg
           base: header, repositories
           plugin_lines: yes
-          name: Most used
-- uses: lowlighter/metrics@latest
+   - name: Most used
+ uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.languages.svg
   token: ${{ secrets.METRICS_TOKEN }}
