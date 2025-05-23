@@ -31,15 +31,14 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.anilist.svg
+          token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 3
-          plugin_anilist_user: sciptduda
+          plugin_anilist_user: scriptduda
 
-
- 
 
 
         
