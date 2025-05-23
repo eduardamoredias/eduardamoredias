@@ -19,7 +19,8 @@ gosto de Desenvolvimento Web, mas atualmente estou focada em estudar SQL, pois p
 <img align= "right" width="400" src="metrics.plugin.languages.svg"/>
 <img align= "left" width="400" src= "metrics.plugin.anilist.svg" />
 <img align= "right" width="400" src="metrics.plugin.habits.facts.svg"/>
-<div align="right">
+
+<div align="center">
  <p> Métricas por <a href="https://github.com/lowlighter/metrics">Lowlighter </a></p>
 <div align="center">
 </div>
