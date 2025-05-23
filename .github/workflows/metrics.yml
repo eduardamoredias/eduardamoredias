@@ -39,14 +39,6 @@ jobs:
           plugin_anilist_limit: 3
           plugin_anilist_user: scriptduda
 
-      - name: Detailed display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-
 
 
 
