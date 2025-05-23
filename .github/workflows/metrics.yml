@@ -38,6 +38,18 @@ jobs:
           plugin_anilist_sections: favorites
           plugin_anilist_limit: 3
           plugin_anilist_user: scriptduda
+          
+      - name: Mildly interesting facts
+        uses: lowlighter/metrics@latest
+        with:
+            filename: metrics.plugin.habits.facts.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_habits: yes
+            plugin_habits_facts: yes
+            plugin_habits_charts: no
+            config_timezone: América/São_Paulo
+
 
 
 
