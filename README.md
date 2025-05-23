@@ -20,6 +20,9 @@ gosto de Desenvolvimento Web, mas atualmente estou focada em estudar SQL, pois p
 <img align= "right" src="metrics.plugin.habits.facts.svg"/>
 
 <div align="center">
-<p> Métricas por <a href="https://github.com/lowlighter/metrics">Lowlighter </a></p>
+<p> Métricas por <a href="https://github.com/lowlighter/metrics">Lowlighter</a></p>
 </div>
 
+<div align="center">
+  <img align="center" src="https://i.pinimg.com/736x/65/cc/b5/65ccb5262f350d3b5c943bc0db0fcf0f.jpg"/>
+</div>
