@@ -16,5 +16,5 @@ gosto de Desenvolvimento Web, mas atualmente estou focada em estudar SQL, pois p
 </p>
 
 <img align= "right" src="metrics.plugin.languages.svg"/>
-
+<img align= "left" src= "metrics.plugin.anilist.svg" />
 
