@@ -14,12 +14,10 @@ jobs:
     permissions:
       contents: write
     steps:
-          - name: Install nokogiri dependencies
-       run:
-          sudo apt-get update
-          sudo apt-get install -y build-essential patch ruby-dev zlib1g-dev liblzma-dev libxml2-dev libxslt1-dev
+      - name: Install nokogiri dependencies
+  run: sudo apt-get update && sudo apt-get install -y build-essential patch ruby-dev zlib1g-dev liblzma-dev libxml2-dev libxslt1-dev
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest 
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
