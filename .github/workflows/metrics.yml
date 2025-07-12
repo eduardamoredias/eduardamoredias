@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -15,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Install nokogiri dependencies
-  run: sudo apt-get update && sudo apt-get install -y build-essential patch ruby-dev zlib1g-dev liblzma-dev libxml2-dev libxslt1-dev
+        run: sudo apt-get update && sudo apt-get install -y build-essential patch ruby-dev zlib1g-dev liblzma-dev libxml2-dev libxslt1-dev
 
       - uses: lowlighter/metrics@latest 
         with:
@@ -44,15 +41,13 @@ jobs:
       - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
         with:
-            filename: metrics.plugin.habits.facts.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: ""
-            plugin_habits: yes
-            plugin_habits_facts: yes
-            plugin_habits_charts: no
-            config_timezone: América/São_Paulo
-
-
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: America/Sao_Paulo
 
 
 
